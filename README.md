@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**haseres1/haseres1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Habteysus a Ayele, and I'm a data analyst. I really enjoy analyzing and cleaning data and running statistical analyses. I also enjoy working with languages like Python, DAX, and SQL, as well as working with Excel. 
 
-Here are some ideas to get you started:
+# Programming Langauge
+SQL
+Python(Pandas, Numpy, Matplotlib, SciPy, Sklearn, Statsmodels)
+DAX
+M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Data Science Tools
+Microsoft Power BI
+Tableau
+Microsoft Excel
+Google Analytics

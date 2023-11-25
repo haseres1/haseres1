@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Habitu Ayele, and I'm a data analyst. I really enjoy analyzing and cleaning data and running statistical analyses. I also enjoy working with languages like Python, DAX, and SQL, as well as working with Excel. 
+I'm Teyus Ayele, and I'm a data analyst. I really enjoy analyzing and cleaning data and running statistical analyses. I also enjoy working with languages like Python, DAX, and SQL, as well as working with Excel. 
 
 # Programming Langauge
 1. SQL
